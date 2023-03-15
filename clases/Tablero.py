@@ -1,4 +1,4 @@
-from clases import Casilla, Conventions, Barco
+from clases import Casilla, Barco
 
 class Tablero:
     def __init__(self):

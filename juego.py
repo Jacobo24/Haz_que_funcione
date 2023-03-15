@@ -5,14 +5,7 @@ from random import shuffle, choice, random
 from clases import Barco, Casilla, Tablero
 from introducir import solicitar_introducir_si_o_no, solicitar_introducir_casilla
 
-from introducir import (
-    solicitar_introducir_numero_extremo,
-    solicitar_introducir_si_o_no,
-    solicitar_introducir_letra,
-    solicitar_introducir_palabra,
-    solicitar_introducir_casilla,
-)
-
+from introducir import buleano, cadena, numero
 
 LONGITUDES_BARCOS = [2, 3, 3, 4, 4, 5]
 ORDINAL = 0x2680

@@ -1,4 +1,4 @@
-from clases import Casilla, Tablero, Conventions
+from clases import Casilla, Tablero
 from random import choice
 from itertools import product, repeat
 
