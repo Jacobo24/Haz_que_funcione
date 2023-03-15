@@ -1,4 +1,4 @@
-from clases import Conventions, Tablero, Barco
+from clases import Tablero, Barco
 
 CASO_NO_JUGADO = chr(0x2610)
 CASO_TOCADO = chr(0x2611)
