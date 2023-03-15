@@ -2,7 +2,7 @@ import sys
 from itertools import cycle, chain, product, repeat
 from functools import reduce
 from random import shuffle, choice, random
-from clases import Barco, Casilla, Tablero, Conventions
+from clases import Barco, Casilla, Tablero
 from introducir import solicitar_introducir_si_o_no, solicitar_introducir_casilla
 
 from introducir import (
